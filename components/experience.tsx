@@ -7,7 +7,7 @@ const experiences = [
     company: "Temporai",
     period: "May 2024 - Present",
     responsibilities: [
-      "Developed sophisticated time series forecasting tool integrating both statistical and deep learning models, achieving over 93% accuracy compared to the baseline.",
+      "Developed a sophisticated time series forecasting tool integrating both statistical and deep learning models, achieving over 93% accuracy compared to the baseline.",
       "Engineered a stacking ensemble architecture, enhancing robustness and reliability of forecasts.",
       "Designed and built user-friendly interface for seamless data uploading, pre-processing, and forecast generation, streamlining the workflow for end-users and reducing turnaround time.",
       "Designed and deployed a multi-agent system with dynamic routing and Retrieval Augmented Generation, for real-time context retrieval. Improved query execution time and response accuracy.",
